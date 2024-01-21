@@ -1,6 +1,5 @@
 ![Pic](https://github.com/jmlakshmisagar/ShowCase/assets/152427404/8e1735a3-a4d7-4de2-abfb-3706d832fd48)
-"Showcase – Open Almirah ![Pic]
-Collections" 
+"Showcase – Open Almirah Collections" 
 is a responsive web application developed using HTML, CSS, JavaScript, and Firebase technologies for Authentication, Realtime Database, and Storage. The project, available on GitHub and live for exploration, serves as a comprehensive platform for artists to exhibit their creative talents. Offering a diverse array of artistic works, the interactive platform invites the public to explore and appreciate various forms of creativity, fostering meaningful engagement with the arts.
 
 Key Features:
